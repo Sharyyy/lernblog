@@ -6,7 +6,9 @@ pinned = false
 image = "1.jpg"
 description = "Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt."
 +++
-![Die heute 51-jährige Marie-Luise Kilchör hat im Jahr 1995 die Polizeischule im Ausbildungszentrum der Kantonspolizei Bern in Ittigen abgeschlossen. Seither arbeitet sie in verschiedenen Positionen für die Polizei. Nach 4 Jahren Uniform Polizei wechselte sie zur Kriminalpolizei Bern. Aktuell arbeitet sie bei der Fedpol in der SIRENE Schweiz als Fahndungsspezialistin im Schichtbetrieb.  SIRENE steht für “Supplementary Information Request at the National Entry”. Die Fahndungsspezialisten und Fahndungsspezialistinnen beschäftigen sich mit der Personen- und Sachfahndung im Bereich der internationalen Fahndungen.](1.jpg)
+![](1.jpg)
+
+Die heute 51-jährige Marie-Luise Kilchör hat im Jahr 1995 die Polizeischule im Ausbildungszentrum der Kantonspolizei Bern in Ittigen abgeschlossen. Seither arbeitet sie in verschiedenen Positionen für die Polizei. Nach 4 Jahren Uniform Polizei wechselte sie zur Kriminalpolizei Bern. Aktuell arbeitet sie bei der Fedpol in der SIRENE Schweiz als Fahndungsspezialistin im Schichtbetrieb.  SIRENE steht für “Supplementary Information Request at the National Entry”. Die Fahndungsspezialisten und Fahndungsspezialistinnen beschäftigen sich mit der Personen- und Sachfahndung im Bereich der internationalen Fahndungen.
 
 ## Was dürfen Polizisten und Polizistinnen im Alltag
 
