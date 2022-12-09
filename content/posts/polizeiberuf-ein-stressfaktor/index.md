@@ -3,6 +3,7 @@ title = "Polizeiberuf, ein Stressfaktor?"
 date = "2022-12-01"
 draft = false
 pinned = false
+tags = ["#Deutsch#Reportage"]
 image = "1.jpg"
 description = "Wie stressig ist der Polizeiberuf wirklich? Wir haben uns mit dem Beruf und seinen Arbeitszeiten beschäftig. Dabei haben wir einen Einblick in einen Tag zwischen zwei Nachtschichten bekommen und ein Interview mit der Polizistin Marie-Luise Kilchör geführt."
 +++
